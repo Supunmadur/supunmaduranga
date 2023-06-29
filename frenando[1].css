@@ -1,0 +1,87 @@
+h1{
+   color: rgb(216, 82, 82);
+    text-align:center;
+}
+img{
+    width: 25%;
+    border-radius: 50%;
+}
+
+nav{display: flex;
+
+}
+nav >Li{
+    width: 50rem;
+    background-color: aqua;
+    
+
+}
+
+body { 
+   background-color: rgb(0, 77, 50); 
+}
+body {
+    background-image:url(pexels-rovenimagescom-949587.jpg);
+    background-size:100%;
+}
+ #Aboutme{
+    color: rgb(180, 161, 165);
+}
+#education{
+    color: rgb(206, 207, 157);
+    
+}
+#intrest{
+    color: rgb(71, 124, 17);
+}
+#education{
+    background-image: url
+}
+#aboutme{
+    background-image: url
+}
+#aboutme{
+    background-size: 100%;
+}
+#intrest{
+    background-image: url
+}
+.name {
+    background-image: url
+}
+#contact {
+    background-image: url
+}
+#aboutme{
+    display:flex
+}
+@media (max-width: 900px) {
+    nav >Li{
+        width: 50rem;
+        background-color: rgb(255, 0, 13);
+        
+    
+    }
+}
+@media (max-width: 700px) {
+    nav >Li{
+        width: 50rem;
+        background-color: rgb(10, 221, 21);
+        
+    
+    }
+    #aboutme img {
+        width: 80px;
+    }
+}
+#aboutme:hover, #education>div:hover,#intrest>div:hover{
+    -webkit-animation-name: abc;
+    -webkit-animation-direction: 2s;
+    -webkit-animation-delay: 0.Ss;
+    -webkit-animation-fill-mode:forwards;
+    -webkit-animation-timing-function: ease-in-out;
+
+}
+
+@keyframes 
+
